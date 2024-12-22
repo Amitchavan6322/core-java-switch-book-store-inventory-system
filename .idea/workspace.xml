@@ -1,27 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df08360c-0577-4af5-8da1-ea73efa4a072" name="Changes" comment="" />
+    <list default="true" id="df08360c-0577-4af5-8da1-ea73efa4a072" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inventory/BookStoreInventorySystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/amit/book/inventory/BookStoreInventorySystem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inventory/model/BookInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/amit/book/inventory/model/BookInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inventory/model/InventoryInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/amit/book/inventory/model/InventoryInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inventory/model/StoreInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/amit/book/inventory/model/StoreInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inventory/service/BookService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/amit/book/inventory/service/BookService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inventory/service/InventoryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/amit/book/inventory/service/InventoryService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inventory/service/StoreService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/amit/book/inventory/service/StoreService.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2qX3VLI77EC0fqfGu5Hwl1T8Ocz" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "E:/_training/core-java-switch-book-store-inventory-systems/src"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/_training/core-java-if-book-store-inventory-system&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\_training\core-java-switch-book-store-inventory-systems\src" />
@@ -29,6 +42,20 @@
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="BookStoreInventorySystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BookStoreInventorySystem" />
+      <module name="core-java-switch-book-store-inventory-systems" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BookStoreInventorySystem" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
